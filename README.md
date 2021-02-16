@@ -41,6 +41,6 @@ Commands:
   aws-encrypt-secret  aws encrypt secrets using kms key
   aws-get-secret      aws get values from Parameter Store
   aws-put-secret      aws put values in Parameter Store
-  copy-secret         copy secrets
+  copy-secret         copy values from one account or region to another
 
 ```

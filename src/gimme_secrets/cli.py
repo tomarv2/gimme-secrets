@@ -215,7 +215,7 @@ To copy secret from one account to another or from one cloud provider to another
               help='overwrite existing value')
 def copy_secret(source_cloud, dest_cloud, ciphertext, source_role_arn, dest_role_arn, source_region, dest_region,
                 resource_type, name, valuetype, source_kms_keyid, dest_kms_keyid, overwrite):
-    """copy secrets"""
+    """copy values from one account or region to another"""
     print("inside")
     if source_cloud.lower() == 'aws' and dest_cloud.lower() == 'aws':
         if resource_type.lower() == 'parameterstore':
