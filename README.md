@@ -1,4 +1,4 @@
-# Gimme Secrets
+# gimme-secrets
 
 gimme-secrets is a cli tool to manage AWS Parameter Store values.
 
