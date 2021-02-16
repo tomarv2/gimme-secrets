@@ -9,7 +9,7 @@ import gimme_secrets.azure.decrypt_encrypt as azure_decrypt_encrypt
 import gimme_secrets.azure.manage_secrets as azure_manage_secrets
 
 import gimme_secrets.gcp.decrypt_encrypt as gcp_decrypt_encrypt
-from .logging_updated import configure_logging
+from .logging import configure_logging
 
 logger = logging.getLogger(__name__)
 

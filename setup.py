@@ -2,7 +2,7 @@ import os
 
 from setuptools import find_packages, setup
 
-VERSION = "0.0.1.dev4"
+VERSION = "0.0.1.dev7"
 
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
 
@@ -23,7 +23,7 @@ print("Started!")
 setup(
     name='gimme-secrets',
     version=VERSION,
-    description='Encyrpt/Decrypt credentials for AWS',
+    description='AWS Parameter Store management',
     long_description=long_description,
     long_description_content_type="text/markdown",
     author='Varun Tomar',

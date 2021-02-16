@@ -1,8 +1,0 @@
-attach: True
-role_arn: 1234
-inline_policy_file: /Users/varun.tomar/Documents/databricks_github/dispatch/infrastructure/policies/dev/kms_key_policy.tf
-managed_policy_arn: None
-timeout: 30
-ticket_number: 3
-account_number: 3
-caller_identity: arn
