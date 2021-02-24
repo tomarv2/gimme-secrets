@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://www.apache.org/licenses/LICENSE-2.0" alt="GitHub tag">
-        <img src="https://img.shields.io/github/license/tomarv2/terraform-azure-role-assignment" /></a>
-    <a href="https://github.com/tomarv2/terraform-azure-role-assignment/tags" alt="GitHub tag">
-        <img src="https://img.shields.io/github/v/tag/tomarv2/terraform-azure-role-assignment" /></a>
-    <a href="https://github.com/tomarv2/terraform-azure-role-assignment/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/tomarv2/terraform-azure-role-assignment" /></a>
+        <img src="https://img.shields.io/github/license/tomarv2/gimme-secrets" /></a>
+    <a href="https://github.com/tomarv2/gimme-secrets/tags" alt="GitHub tag">
+        <img src="https://img.shields.io/github/v/tag/tomarv2/gimme-secrets" /></a>
+    <a href="https://github.com/tomarv2/gimme-secrets/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/tomarv2/gimme-secrets" /></a>
     <a href="https://stackoverflow.com/users/6679867/tomarv2" alt="Stack Exchange reputation">
         <img src="https://img.shields.io/stackexchange/stackoverflow/r/6679867"></a>
     <a href="https://discord.gg/XH975bzN" alt="chat on Discord">
